@@ -186,14 +186,14 @@ body {
  
 
 .containera {
-    
+    border: 5px dotted corl;
     
     width: 100%;
     min-height: 100%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
-    background-color: white;
+    background-color: aquamarine;
 }
 
 .carda {
