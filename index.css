@@ -117,11 +117,27 @@ body {
 .img{width:100%;height:100%}
 
 
-img:hover{transform:scale(1.3)}.btn,.last{position:absolute;justify-content:center;bottom:10px;width:90%;height:40px;border:none;background-color:#eb8602;font-weight:bold}
+img:hover{transform:scale(1.3)}
+
+.btn,.last{position:absolute;
+
+  justify-content:center;
+
+  bottom:10px;
+
+  width:90%;
+
+  height:40px;
+
+  border:none;
+
+  background-color:#eb8602;
+
+  font-weight:bold}
 
 .btn:hover{background-color:#027497;
 
-transition:all 0.9s ease-in-out}
+  transition:all 0.9s ease-in-out}
 
 
 .flex__example1 {
