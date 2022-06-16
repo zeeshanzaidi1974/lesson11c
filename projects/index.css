@@ -141,7 +141,7 @@ body {
 }
 
 .containerone {   
-    border: 5px dotted coral;
+
     
     width: 100%;
     min-height: 60%;
@@ -150,11 +150,11 @@ body {
    justify-content: start;
     align-items: start-flex;
     flex-wrap: wrap;
-    background-color: aquamarine;
+    background-color: white;
 
 }
 .cardone {
-    background-color: darkcyan;
+    background-color: white;
     border: 5px solid black;
     align-items: baseline;
     max-width: 300px;
@@ -168,14 +168,14 @@ body {
  
 
 .containera {
-    border: 5px dotted corl;
+    
     
     width: 100%;
     min-height: 100%;
     padding: 25px 0;
     display: flex;
     flex-wrap: wrap;
-    background-color: aquamarine;
+    background-color: white;
 }
 
 .carda {
