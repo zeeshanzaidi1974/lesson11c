@@ -57,7 +57,11 @@ body {
   background-color: #369;
 }
 
-
+.pict {
+  width: 1200px;
+  height:800px;
+  margin-left: 15px;
+}
 
 .pict1
 { max-width: 300px;
