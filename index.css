@@ -76,31 +76,6 @@ body {
 
 .nav__link:hover{color:#00c3ff}
 
-.container{display:flex;
-
-  justify-content:center;
-
-  align-items:center;
-
-  padding:40px 20px}
-
-.card{max-width:250px;
-
-  min-height:400px;
-
-  background-color:cornflowerblue;
-
-  border:1px solid #2196f3;
-
-  border-radius:10px;
-
-  margin:20px;
-
-  padding:10px;
-
-  display:flex;
-
-  position:relative}
 
 
 
@@ -231,6 +206,33 @@ img:hover{transform:scale(1.3)}
 .btn:hover{background-color:#027497;
 
   transition:all 0.9s ease-in-out}
+
+
+.container{display:flex;
+
+  justify-content:center;
+
+  align-items:center;
+
+  padding:40px 20px}
+
+.card{max-width:250px;
+
+  min-height:400px;
+
+  background-color:cornflowerblue;
+
+  border:1px solid #2196f3;
+
+  border-radius:10px;
+
+  margin:20px;
+
+  padding:10px;
+
+  display:flex;
+
+  position:relative}
 
 
 .flex__example1 {
