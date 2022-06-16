@@ -125,20 +125,7 @@ body {
     position: relative;
 }
 
-.card-title {
-    max-width: 200px;
-    width: 100%;
-    margin-top: 20px;
-    margin-left: 5px;
-    font-family: 'Ramaraja', serif;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 40px;
-    /* or 106% */
-    letter-spacing: 0.02em;
-    color: #1B0A42;
-}
+
 
 .pict {
   width: 1200px;
