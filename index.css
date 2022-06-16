@@ -77,18 +77,6 @@ body {
 .nav__link:hover{color:#00c3ff}
 
 
-
-
-
-  padding: 0;
-
-  list-style-type: none;
-
-  text-align: center;
-
-  width: 1200px;
-}
-
 .navcontainer ul li { 
 
   display: inline;
