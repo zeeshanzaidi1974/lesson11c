@@ -4,6 +4,11 @@
 
 @import "footer.scss";
 
+body {
+    background : white;
+    color : black;
+}
+
 
 .header
 
@@ -157,19 +162,7 @@ transition:all 0.9s ease-in-out}
     min-height: 300px;}
 
 
-.header {
 
-    height: 150px;
-
-    width: 1500px;
-   
-    background-color: white;
-
-    margin: 0;  
-
-    align-items: center;
-
-}
 
 .headd {
     color: blue; 
@@ -291,9 +284,6 @@ margin-left: 100px;
 
 
 
-body {
-    background : white;
-    color : black;
-}
+
 
   
