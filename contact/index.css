@@ -7,16 +7,7 @@ body {
 
   font-family: 'Poppins', sans-serif;
 }
-.header {
-    height: 150px;
 
-    width: 1500px;
-   
-    background-color: white;
-
-    margin: 0;  
-    align-items: center;
-}
 
 .logo{margin-left:30px;font-size:40px;font-family:"Bangers",cursive;color:#ff7300;}
 	
@@ -36,10 +27,7 @@ body {
          background-size: 500px 300px;
 
 }
-.main__info, .main__tagline {
 
-    font-size: 25px;
-}
 
 .navcontainer ul
 {
