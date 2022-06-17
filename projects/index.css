@@ -201,13 +201,13 @@ body {
     margin: 10px;
     display: flex;
     
-    align-items: stretch;
+    align-items: start;
     flex-basis: 180px;
     overflow: hidden;
 
-    align-content: space-between; 
+     
     flex-direction: column;
-  justify-content: space-between;
+  justify-content: start;
     
 }
 .cardc{
@@ -219,13 +219,14 @@ body {
     margin: 10px;
     display: flex;
     
-    align-items: center;
+    align-items: start;
     flex-basis: 180px;
-    overflow: hidden;
+    overflow: hidden;   
     
-    align-content: space-between; 
     flex-direction: column;
-  justify-content: space-between;
+ 
+  justify-content: flex-start;
+    
     
 }
 
@@ -261,7 +262,7 @@ body {
     flex-basis: 90px;
     overflow: hidden;
     
-}
+} 
 
 
 
