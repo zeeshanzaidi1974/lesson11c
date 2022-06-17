@@ -218,3 +218,23 @@ body {
     flex-basis: 180px;
     overflow: hidden;
 }
+
+.cardd
+ {
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 5px;
+    min-width: 320px;
+    min-height: 20px;
+    margin: 10px;
+    display: flex;
+    justify-content: start;
+    align-items: stretch;
+    flex-basis: 90px;
+    overflow: hidden;
+}
+
+
+
+
+
