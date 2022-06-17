@@ -228,10 +228,29 @@ body {
     min-height: 20px;
     margin: 10px;
     display: flex;
-    justify-content: start;
-    align-items: stretch;
+    
+    
     flex-basis: 90px;
     overflow: hidden;
+
+   align-content: space-between; 
+    flex-direction: column;
+  justify-content: space-between;
+}
+
+.carde
+ {
+    background-color: blue;
+    border: 5px solid black;
+    border-radius: 5px;
+    min-width: 320px;
+    min-height: 20px;
+    margin: 2px;
+    display: flex;
+    align-items: ;
+    flex-basis: 90px;
+    overflow: hidden;
+    
 }
 
 
