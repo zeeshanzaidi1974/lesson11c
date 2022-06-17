@@ -176,6 +176,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     background-color: white;
+    border-bottom:1px solid ##C0C0C0;
 }
 
 .carda {
