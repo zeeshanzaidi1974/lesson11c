@@ -81,6 +81,20 @@ body {
   text-align: center;
 }
 
+.grid-container1 {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  background-color:white;
+  padding: 1px;
+}
+
+.grid-item1 {
+  background-color: white; 
+  padding: 2px;
+  
+  
+}
+
 .navcontainer ul
 {
   padding: 0;
