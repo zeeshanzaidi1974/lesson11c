@@ -91,9 +91,20 @@ body {
 .grid-item1 {
   background-color: white; 
   padding: 2px;
-  
-  
+   
 }
+
+.info3
+  {   
+  
+
+  font-size:20px;
+
+  font-family:"Helvetica, sans-serif";
+
+  color: black;}
+
+
 
 .navcontainer ul
 {
