@@ -164,31 +164,6 @@ body {
     
 }
 
-.containerone {   
-    width: 100%;
-    min-height: 60%;
-    padding: 25px 0;
-    display: flex;
-   justify-content: start;
-    align-items: start-flex;
-    flex-wrap: wrap;
-    background-color: white;
-
-}
-.cardone {
-    background-color: white;
-    border: 5px solid black;
-    align-items: baseline;
-    max-width: 300px;
-    max-height: 300px;
-    margin: 10px;
-    display: flex;
-    overflow: hidden;
-    flex-basis: 180px;
-}
-
- 
-
 .containera {
       
     width: 100%;
@@ -202,7 +177,7 @@ body {
 
 .carda {
     background-color: white;
-    border: 5px solid black;
+    
     border-radius: 15px;
     min-width: 320px;
     min-height: 40px;
@@ -216,7 +191,7 @@ body {
 
 .cardb {
     background-color: white;
-    border: 5px solid black;
+    
     border-radius: 15px;
     min-width: 320px;
     min-height: 40px;
@@ -234,7 +209,7 @@ body {
 }
 .cardc{
     background-color: white;
-    border: 5px solid black;
+    
     border-radius: 15px;
     min-width: 320px;
     min-height: 40px;
@@ -255,7 +230,7 @@ body {
 .cardd
  {
     background-color: white;
-    border: 5px solid black;
+    
     border-radius: 5px;
     min-width: 320px;
     min-height: 20px;
@@ -274,7 +249,7 @@ body {
 .carde
  {
     background-color: white;
-    border: 5px solid black;
+    
     border-radius: 5px;
     min-width: 320px;
     min-height: 20px;
