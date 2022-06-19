@@ -91,13 +91,13 @@ body {
 .grid-item1 {
   background-color: white; 
   padding: 2px;
+  text-align: center;
    
 }
 
 .info3
   {   
   
-
   font-size:20px;
 
   font-family:"Helvetica, sans-serif";
@@ -165,8 +165,6 @@ body {
 }
 
 .containerone {   
-
-    
     width: 100%;
     min-height: 60%;
     padding: 25px 0;
@@ -192,8 +190,7 @@ body {
  
 
 .containera {
-    
-    
+      
     width: 100%;
     min-height: 100%;
     padding: 25px 0;
@@ -257,7 +254,7 @@ body {
 
 .cardd
  {
-    background-color: blue;
+    background-color: white;
     border: 5px solid black;
     border-radius: 5px;
     min-width: 320px;
@@ -276,7 +273,7 @@ body {
 
 .carde
  {
-    background-color: blue;
+    background-color: white;
     border: 5px solid black;
     border-radius: 5px;
     min-width: 320px;
