@@ -160,6 +160,13 @@ body {
 }
 
 
+.line-1 {
+  height: 2px;
+  background: grey;
+}
+
+
+
 .flex__example1
 {
  height: 60vh; 
