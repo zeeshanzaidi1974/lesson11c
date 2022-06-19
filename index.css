@@ -43,6 +43,16 @@ body {
   cursive;color:black ;}
 
 
+.info1
+  { 
+
+  font-size:20px;
+
+  font-family:"Helvetica, sans-serif";
+
+  color: blue ;}
+
+
 .grid-container {
   display: grid;
   grid-template-columns: auto auto auto;
