@@ -91,6 +91,13 @@ body {
 .grid-item1 {
   background-color: white; 
   padding: 2px;
+  text-align: left;
+   
+}
+
+.grid-item2 {
+  background-color: white; 
+  padding: 2px;
   text-align: center;
    
 }
