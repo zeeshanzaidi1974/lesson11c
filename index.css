@@ -175,6 +175,7 @@ body {
     justify-content: start;
     align-items: start-flex;
     flex-wrap: wrap;
+    border-bottom: 2px grey;
     
 }
 
