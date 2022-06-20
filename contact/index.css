@@ -1,5 +1,5 @@
 * {
-    padding : 0;
+   padding : 0;
    margin : 0;
 }
 
@@ -18,24 +18,17 @@ body {
     align-items: center;
 }
 
-.logo{margin-left:30px;font-size:40px;font-family:"Helvetica, sans-serif";color:#000000;}
+.logo{
+
+   margin-left:30px;
+
+   font-size:40px;
+
+   font-family:"Helvetica, sans-serif";
+
+   color:#000000;}
 	
-.main {
-	width: 300%;
-	
-	height: 100vh;
-		
-        align-items: center;
-    
-        background-repeat: no-repeat;
 
-        background-position: 530px 5px;
-
-        background-repeat: no-repeat;
-
-         background-size: 500px 300px;
-
-}
 .main__info, .main__tagline {
 
     font-size: 25px;
